@@ -1,0 +1,16 @@
+C:\Users\Sasch\Desktop\Emily D.Net\bin\Debug\TutorialBot.exe.config
+C:\Users\Sasch\Desktop\Emily D.Net\bin\Debug\TutorialBot.exe
+C:\Users\Sasch\Desktop\Emily D.Net\bin\Debug\TutorialBot.pdb
+C:\Users\Sasch\Desktop\Emily D.Net\obj\Debug\Emily D.Net.csproj.CoreCompileInputs.cache
+C:\Users\Sasch\Desktop\Emily D.Net\obj\Debug\Emily D.Net.csproj.CopyComplete
+C:\Users\Sasch\Desktop\Emily D.Net\obj\Debug\TutorialBot.exe
+C:\Users\Sasch\Desktop\Emily D.Net\obj\Debug\TutorialBot.pdb
+C:\Users\Sasch\Desktop\Emily D.Net\obj\Debug\Emily D.Net.csprojAssemblyReference.cache
+C:\Users\Sasch\Desktop\meme\Emily D.Net\obj\Debug\Emily D.Net.csproj.CoreCompileInputs.cache
+C:\Users\Sasch\Desktop\meme\Emily D.Net\obj\Debug\Emily D.Net.csproj.CopyComplete
+C:\Users\Sasch\Desktop\meme\Emily D.Net\bin\Debug\Emily.exe.config
+C:\Users\Sasch\Desktop\meme\Emily D.Net\bin\Debug\Emily.exe
+C:\Users\Sasch\Desktop\meme\Emily D.Net\bin\Debug\Emily.pdb
+C:\Users\Sasch\Desktop\meme\Emily D.Net\obj\Debug\Emily D.Net.csprojAssemblyReference.cache
+C:\Users\Sasch\Desktop\meme\Emily D.Net\obj\Debug\Emily.exe
+C:\Users\Sasch\Desktop\meme\Emily D.Net\obj\Debug\Emily.pdb
